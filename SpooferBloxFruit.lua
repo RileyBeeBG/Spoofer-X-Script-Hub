@@ -33,8 +33,8 @@ getgenv().ForceUseSilentAimDashModifier = false --Force turn on silent aim , if 
 getgenv().ForceUseWalkSpeedModifier = false --Force turn on Walk Speed Modifier , if error then executor problem
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
 
--- #I DID NOT MAKE THIS SCRIPT#
--- #ITS JUST A REUPLOAD#
+-- W Azure Script
+-- Blox Fruit
 
 -- CREATOR DISCORD SERVER: https://discord.gg/w-azure
 
